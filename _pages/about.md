@@ -10,9 +10,9 @@ redirect_from:
 Hello! This is Hang Chen, a senior undergraduate student at the School of Mathematical Sciences, Peking University.
 
 Research Interest
-======
+-----
 Number Theory, Arithmetic Geometry
 
 Email Address
-======
+-----
 chenhang@stu.pku.edu.cn
