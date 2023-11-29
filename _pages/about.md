@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----https://blog.csdn.net/qd1813100174/article/details/128604858
+---
 
 Hello! This is Hang Chen, a senior undergraduate student at the School of Mathematical Sciences, Peking University.
 
