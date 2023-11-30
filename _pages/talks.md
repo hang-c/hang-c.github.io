@@ -5,6 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-+ ### Weil Conjecture Seminar
-...In Autumn 2023, I gave several talks on the derived category
++ ## Weil Conjecture Seminar
+In the Autumn 2023, I gave several talks on the derived category
 
