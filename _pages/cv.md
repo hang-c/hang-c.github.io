@@ -46,7 +46,7 @@ Talks
 Here are some seminars I have given talks
 * Autumn 2023: Weil Conjecture Seminar
   * Main material: Kiehl and Weissauer’s book *[Weil Conjectures, Perverse Sheaves and l-adic Fourier Transform](https://link.springer.com/book/10.1007/978-3-662-04576-3)*
-  * Gave several talks on Chapter 2
+  * Gave several talks on Chapter II
 * Autumn 2023: Stacks Seminar 
   * Main material: Alper’s book *[Stacks and Moduli](https://sites.math.washington.edu/~jarod/moduli.pdf)*
   * Gave one talk on the geometry of Deligne-Mumford stacks
