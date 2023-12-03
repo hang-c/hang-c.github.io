@@ -27,7 +27,8 @@ Research Programs
   * Peking University
   * Director: Professor Liang Xiao
   * Main topic: Elliptic curves, abelian varieties, and the proofs of the Mordell-Weil theorem and Mazur's theorem
-  * Main materials: 
+  * Main materials: Silverman's *[The Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-0-387-09494-6)* and *[Advanced Topics in the Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-1-4612-0851-8)*, Serre's *[Lectures on the Mordell-Weil Theorem
+](https://link.springer.com/book/10.1007/978-3-663-10632-6)*, Mumford's *[Abelian Varieties](https://bookstore.ams.org/tifr-13/)*, Andrew Snowden's *[notes](https://public.websites.umich.edu/~asnowden/teaching/2013/679/)* on Mazur's theorem
     
 Expository papers and notes
 ======
@@ -53,7 +54,7 @@ Here are some seminars I have given talks
   * Gave one talk on the geometry of Deligne-Mumford stacks
 * Autumn 2023: Algebraic K-Theory Seminar
   * Main material: Sriniva’s book *[Algebraic K-Theory](https://link.springer.com/book/10.1007/978-0-8176-4739-1)*
-  *Gave several talks on the first few chapters
+  * Gave several talks on the first few chapters
 
 Math Course
 ======
