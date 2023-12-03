@@ -16,7 +16,7 @@ author_profile: true
   Jun. 2023
 + **[Introduction to Dessins d’Enfants](../assets/Intro_to_dessins.pdf)**
 
-  Gave a 3-hour presentation with partner  Jun. 2022
+  Gave a 3-hour presentation with partner, Jun. 2022
 + **[Introduction to Linear Representation of Finite Groups](../assets/Introduction_to_Representation_Theory_of_Finite_Groups.pdf)**
 
   Dec. 2021
