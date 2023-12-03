@@ -17,14 +17,14 @@ Research Programs
 ======
 * Summer 2023: The University of Chicago Mathematics REU 2023
   * The University of Chicago
-  * Organizor: Professor Peter May, Mentor: Micah Gay
+  * Organizer: Professor Peter May, Mentor: Micah Gay
   * Main topic: Shimura varieties
   * Main materials: Milne's *[Introduction to Shimura Varieties](https://www.jmilne.org/math/xnotes/svi.pdf)* and Genestier and Ngo's *[Lectures on Shimura Varieties](https://www.math.uchicago.edu/~ngo/Shimura.pdf)*
 
 * Spring 2022-Present: Undergraduate Research Program
   * Peking University
   * Director: Professor Liang Xiao
-  * Main topic: Elliptic curves, abelian varieties, and the proofs of the Mordell-Weil theorem and Mazur's theorem
+  * Main topics: elliptic curves, abelian varieties, and the proofs of the Mordell-Weil theorem and Mazur's theorem
   * Main materials: Silverman's *[The Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-0-387-09494-6)* and *[Advanced Topics in the Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-1-4612-0851-8)*, Serre's *[Lectures on the Mordell-Weil Theorem
 ](https://link.springer.com/book/10.1007/978-3-663-10632-6)*, Mumford's *[Abelian Varieties](https://bookstore.ams.org/tifr-13/)*, Andrew Snowden's *[notes](https://public.websites.umich.edu/~asnowden/teaching/2013/679/)* on Mazur's theorem
     
@@ -62,7 +62,7 @@ Honors
 ======
 * October 2023/2022/2021: three-time Merit Student
 * October 2023: Yuting Wu Scholarship
-* Jun. 2023/Aug. 2022: Winning prizes in S-T Yau College Student Mathematics Contact
+* Jun. 2023/Aug. 2022: Winning prizes in S-T Yau College Student Mathematics Contest
 * April 2023: The President’s Fund for Research 
 * October 2022: Students Scholarship for Outstanding Performance 
 * October 2021: Minping Qian Scholarship
