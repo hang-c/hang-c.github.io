@@ -9,51 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+My full CV is [here](../assets/CV_Hang_Chen.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.S. in Mathematics, Peking University, 2024 (expected)
   
-Skills
+Research Programs
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: The University of Chicago Mathematics REU 2023
+  * The University of Chicago
+  * Organizor: Professor Peter May, Mentor: Micah Gay
+  * Main topic: Shimura varieties
+  * Main materials: Milne's 
 
-Publications
+* Spring 2022-Present: Undergraduate Research Program
+  * Peking University
+  * Director: Professor Liang Xiao
+  * Main topic: Elliptic curves, abelian varieties, and the proofs of the Mordell-Weil theorem and Mazur's theorem
+    
+Expository papers and notes
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* [Introduction to Shimura Varieties](../assets/REU_paper_Hang_Chen(draft).pdf)
+  , a draft for Uchicago's REU paper, Summer 2023 
+* [Notes on Chern-Weil Theory](../assets/Notes_on_Chern_Weil_Theory.pdf)
+  Jun. 2023  
+* [A Concise Explanation of the Sphere Packing Problem in Dimension 8](../assets/A_Concise_Explanation_of_the_Sphere_Packing_Problem_in_Dimension_8.pdf)
+   Jun. 2023
+* [Introduction to Dessins d’Enfants](../assets/Intro_to_dessins.pdf)
+    with a 3-hour presentation with partner, Jun. 2022
+* [Introduction to Linear Representation of Finite Groups](../assets/Introduction_to_Representation_Theory_of_Finite_Groups.pdf)
+  Dec. 2021
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Here are some seminars I have given talks
+* Autumn 2023: Weil Conjecture Seminar
+  * Main material: Kiehl and Weissauer’s book Weil Conjectures, Perverse Sheaves and l-adic Fourier Transform
+  * Gave several talks on Chapter 2
+* Autumn 2023: Stacks Seminar 
+  * Main material: Alper’s book Stacks and Moduli
+  * Gave one talk on the geometry of Deligne-Mumford stacks
+* Autumn 2023: Algebraic K-Theory Seminar
+  * Main material: Sriniva’s book Algebraic K-Theory
+  *Gave several talks on the first few chapters
+
+Math Course
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+[Here](../assets/Math Course.pdf) is a list of math courses I have taken, along with the texts used, the name of the instructor, a short description of topics covered, and the grade you received
+
+Honors
 ======
-* Currently signed in to 43 different slack teams
+* October 2023/2022/2021: three-time Merit Student
+* October 2023: Yuting Wu Scholarship
+* Jun. 2023/Aug. 2022: Winning prizes in S-T Yau College Student Mathematics Contact
+* April 2023: The President’s Fund for Research 
+* October 2022: Students Scholarship for Outstanding Performance 
+* October 2021: Minping Qian Scholarship
