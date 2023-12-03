@@ -28,7 +28,7 @@ Research Programs
   * Main materials: Silverman's *[The Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-0-387-09494-6)* and *[Advanced Topics in the Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-1-4612-0851-8)*, Serre's *[Lectures on the Mordell-Weil Theorem
 ](https://link.springer.com/book/10.1007/978-3-663-10632-6)*, Mumford's *[Abelian Varieties](https://bookstore.ams.org/tifr-13/)*, Andrew Snowden's *[notes](https://public.websites.umich.edu/~asnowden/teaching/2013/679/)* on Mazur's theorem
     
-Expository papers and notes
+Expository Papers and Notes
 ======
 * [Introduction to Shimura Varieties](../assets/REU_paper_Hang_Chen(draft).pdf)
   , a draft for Uchicago's REU paper, Summer 2023 
