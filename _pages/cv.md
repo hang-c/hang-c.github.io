@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is [here](../assets/CV_Hang_Chen.pdf).
+A pdf version is [here](../assets/CV_Hang_Chen.pdf).
 
 Education
 ======
@@ -21,12 +21,13 @@ Research Programs
   * The University of Chicago
   * Organizor: Professor Peter May, Mentor: Micah Gay
   * Main topic: Shimura varieties
-  * Main materials: Milne's 
+  * Main materials: Milne's *[Introduction to Shimura Varieties](https://www.jmilne.org/math/xnotes/svi.pdf)* and Genestier and Ngo's *[Lectures on Shimura Varieties](https://www.math.uchicago.edu/~ngo/Shimura.pdf)*
 
 * Spring 2022-Present: Undergraduate Research Program
   * Peking University
   * Director: Professor Liang Xiao
   * Main topic: Elliptic curves, abelian varieties, and the proofs of the Mordell-Weil theorem and Mazur's theorem
+  * Main materials: 
     
 Expository papers and notes
 ======
@@ -45,18 +46,18 @@ Talks
 ======
 Here are some seminars I have given talks
 * Autumn 2023: Weil Conjecture Seminar
-  * Main material: Kiehl and Weissauer’s book Weil Conjectures, Perverse Sheaves and l-adic Fourier Transform
+  * Main material: Kiehl and Weissauer’s book *[Weil Conjectures, Perverse Sheaves and l-adic Fourier Transform](https://link.springer.com/book/10.1007/978-3-662-04576-3)*
   * Gave several talks on Chapter 2
 * Autumn 2023: Stacks Seminar 
-  * Main material: Alper’s book Stacks and Moduli
+  * Main material: Alper’s book *[Stacks and Moduli](https://sites.math.washington.edu/~jarod/moduli.pdf)*
   * Gave one talk on the geometry of Deligne-Mumford stacks
 * Autumn 2023: Algebraic K-Theory Seminar
-  * Main material: Sriniva’s book Algebraic K-Theory
+  * Main material: Sriniva’s book *[Algebraic K-Theory](https://link.springer.com/book/10.1007/978-0-8176-4739-1)*
   *Gave several talks on the first few chapters
 
 Math Course
 ======
-[Here](../assets/Math Course.pdf) is a list of math courses I have taken, along with the texts used, the name of the instructor, a short description of topics covered, and the grade you received
+[Here](../assets/MathCourse.pdf) is a list of math courses I have taken, along with the textbooks used, the name of the instructor, the main topics covered, and the grade I received
 
 Honors
 ======
