@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 A pdf version is [here](../assets/CV_Hang_Chen.pdf).
 
 Education
