@@ -56,7 +56,7 @@ Here are some seminars I have given talks
 
 Math Course
 ======
-[Here](../assets/MathCourse.pdf) is a list of math courses I have taken, along with the textbooks used, the name of the instructor, the main topics covered, and the grade I received
+[Here](../assets/MathCourse.pdf) is a list of math courses I have taken, along with the textbooks used, the name of the instructor, the main topics covered, and the grade I received.
 
 Honors
 ======
