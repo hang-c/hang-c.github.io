@@ -17,13 +17,13 @@ Research Programs
 ======
 * Summer 2023: The University of Chicago Mathematics REU 2023
   * The University of Chicago
-  * Organizer: Professor Peter May, Mentor: Micah Gay
+  * Organizer: Prof. Peter May, Mentor: Micah Gay
   * Main topic: Shimura varieties
   * Main materials: Milne's *[Introduction to Shimura Varieties](https://www.jmilne.org/math/xnotes/svi.pdf)* and Genestier and Ngo's *[Lectures on Shimura Varieties](https://www.math.uchicago.edu/~ngo/Shimura.pdf)*
 
 * Spring 2022-Present: Undergraduate Research Program
   * Peking University
-  * Director: Professor Liang Xiao
+  * Director: [Prof. Liang Xiao](http://faculty.bicmr.pku.edu.cn/~lxiao/)
   * Main topics: elliptic curves, abelian varieties, and the proofs of the Mordell-Weil theorem and Mazur's theorem
   * Main materials: Silverman's *[The Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-0-387-09494-6)* and *[Advanced Topics in the Arithmetic of Elliptic Curves](https://link.springer.com/book/10.1007/978-1-4612-0851-8)*, Serre's *[Lectures on the Mordell-Weil Theorem
 ](https://link.springer.com/book/10.1007/978-3-663-10632-6)*, Mumford's *[Abelian Varieties](https://bookstore.ams.org/tifr-13/)*, Andrew Snowden's *[notes](https://public.websites.umich.edu/~asnowden/teaching/2013/679/)* on Mazur's theorem
