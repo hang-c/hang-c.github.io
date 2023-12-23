@@ -54,15 +54,16 @@ Here are some seminars I have given talks
   * Main material: Sriniva’s book *[Algebraic K-Theory](https://link.springer.com/book/10.1007/978-0-8176-4739-1)*
   * Gave several talks on the first few chapters
 
-Math Course
+Math Courses Taken
 ======
 [Here](../assets/MathCourse.pdf) is a list of math courses I have taken, along with the textbooks used, the name of the instructor, the main topics covered, and the grade I received.
 
 Honors
 ======
-* October 2023/2022/2021: three-time Merit Student
+* October 2023/2022/2021: Three-time Merit Student
 * October 2023: Yuting Wu Scholarship
-* Jun. 2023/Aug. 2022: Winning prizes in S-T Yau College Student Mathematics Contest
-* April 2023: The President’s Fund for Research 
-* October 2022: Students Scholarship for Outstanding Performance 
+* June 2023/August 2022: Winning prizes in the 13th and 14th S.-T. Yau College Student Mathematics Contest
+* April 2023: The President’s Fund for Research (Peking University) 
+* October 2022: Students Scholarship for Outstanding Performance (Peking University) 
 * October 2021: Minping Qian Scholarship
+* November 2019: Gold medal in the 35th Chinese Mathematics Olympiad (ranking 19)
