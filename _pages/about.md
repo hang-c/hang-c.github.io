@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Hang Chen, a senior undergraduate student at the School of Mathematical Sciences, Peking University. You can find my CV here: [Hang Chen's Curriculum Vitae](../assets/CV_Hang_Chen.pdf). [Here](https://hang-c.github.io//notes/) is some notes I have written.
+Hello! This is Hang Chen, a senior undergraduate student at the School of Mathematical Sciences, Peking University. My CV is here: [Hang Chen's Curriculum Vitae](../assets/CV_Hang_Chen.pdf). [Here](https://hang-c.github.io//notes/) are some notes I've written.
 
 ### Research Interest
 
-Number Theory, especilly Arithmetic Geometry
+Number Theory, especially Arithmetic Geometry
 
 ### Email Address
 
